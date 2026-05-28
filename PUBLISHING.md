@@ -37,6 +37,7 @@ gh repo create codex-dropbox-memory --public --source . --remote origin --push
 
 ## After Publishing
 
+- GitHub: https://github.com/gamaken216/codex-dropbox-memory
 - Add the GitHub URL near the top of the note article.
 - Pin the repository or add it to a visible GitHub profile section.
 - Post on X with both the GitHub URL and note URL.
@@ -52,7 +53,7 @@ Codexを複数PCで使うと、PCごとに文脈が分断される問題があ�
 Windows + Dropbox + Codex Desktop向けです。
 
 GitHub:
-（URL）
+https://github.com/gamaken216/codex-dropbox-memory
 
 解説note:
 https://note.com/gamaken216/n/n155e9a80b026
