@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+
+# Real local memory should stay private.
+memory/
+Codexmemory/
+
+# Logs generated while testing.
+inbox/*.md
+daily/*.md
+summaries/*.md
+archive/*.md
+.tmp/
+
+# Local editor files.
+.vscode/
+.idea/
